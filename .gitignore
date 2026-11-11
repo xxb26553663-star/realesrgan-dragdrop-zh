@@ -1,0 +1,13 @@
+.artifacts/
+runtime/
+.engine-setup-*/
+dist/
+build/
+*.spec
+__pycache__/
+.venv/
+*.zip
+*_HD.png
+*_HD.jpg
+*_HD_*.png
+*_HD_*.jpg
